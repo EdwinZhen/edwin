@@ -1,0 +1,31 @@
+git创建仓库并提交代码（首次）/拉取远程代码（首次）
+
+先配置信息
+
+1. git config --global user.name "linlianhuao"
+
+2. git config --global user.email "linlianhuao@qq.com"
+
+创建仓库并提交代码
+
+1. git init 
+
+2. git remote add origin git@gitlab.***.com:linlianhuao/**.git
+
+3. git add -A
+
+4. git commit -m 建立项目
+
+5. git push -u origin master
+
+拉取远程代码
+
+1. git clone git@gitlab.***.com:linlianhuao/**.git
+
+2. cd **
+
+3. git add -A
+
+4. git commit -m 提交信息
+
+5. git push -u origin master

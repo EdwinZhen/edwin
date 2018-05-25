@@ -1,0 +1,37 @@
+
+
+
+const APP_ID = 'wxafc683d6fc691262';//输入小程序appid  
+const APP_SECRET = 'e98e8b82a950466fd80fbc8a85d8491c';//输入小程序app_secret  
+var OPEN_ID = ''//储存获取到openid  
+var SESSION_KEY = ''//储存获取到session_key  
+
+pages({......................................
+
+   getUserInfo: function(o) {
+        // console.log("getUserInfo----------\x3e", o), "getUserInfo:ok" == o.detail.errMsg && (wx.showLoading({
+        //     title: "正在登录",
+        //     mask: !0
+        // }),
+        console.log("点击登录了");
+            wx.login({
+                success: function (e) {
+                    console.log(e);
+                    console.log("获得code为："+e.code);
+                    wx.request({
+                        //获取openid接口  
+                        url: "https://api.weixin.qq.com/sns/jscode2session?appid=" + APP_ID + "&secret=" + APP_SECRET + "&grant_type=authorization_code"+"&js_code="+e.code,
+                        data: {},
+                        header: {
+                            'content-type': 'application/json'
+                        },
+                        success: function (res) {
+                            OPEN_ID = res.data.openid;//获取到的openid  
+                            SESSION_KEY = res.data.session_key;//获取到session_key 
+                            console.log(res);
+                        }
+                    })
+                }
+            }) 
+        // )
+    }

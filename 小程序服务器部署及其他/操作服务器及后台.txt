@@ -1,0 +1,16 @@
+
+操作服务器：
+
+http://localhost/phpMyAdmin/index.php
+
+账号：root
+
+密码：airiyi
+
+操作微擎后台：
+
+127.0.0.1/install.php
+
+账号：Edwin
+
+密码：Edwin

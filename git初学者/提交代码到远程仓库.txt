@@ -1,0 +1,15 @@
+
+提交代码到远程仓库流程
+
+1. 先添加到暂存区：  git add .  
+
+2. 再提交到本地仓库  git commit -m "修改代码的备注"  
+
+例如： git commit -m "update token and https"[本次commit修改了token和https]
+
+3. 最后push到远程仓库自己的分支
+
+例如： git push origin yinyongjie_dev [push到远程仓库的yinyongjie_dev分支，不能直接push到master_team分支]
+
+	git push origin master
+	[上传到master分支]
