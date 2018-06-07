@@ -1,0 +1,82 @@
+
+小程序公众号账号+密码：
+		jinrishangou@163.com
+		ee63mjbu0324
+
+
+公众号账户及密码：	497297109@qq.com
+      			900831YY
+
+
+商户号：	1484084852
+AppID: 		wx45985654eb18facd
+AppSecret: 	f11d45c1d4e795d8c8617a97c2a44934mdev.airayi.com
+
+
+开放平台账户及密码：	postmaster@airayi.cn
+			Erika6014
+
+
+m.公众平台账户及密码：	aydjdxy
+     			ysdx0601
+
+我把服务器密码改了，新密码：Erika6014
+
+
+
+天喜小程序：
+AppID(小程序ID): 	wxafc683d6fc691262
+AppSecret(小程序密钥):	e98e8b82a950466fd80fbc8a85d8491c
+
+
+edwin的小程序：
+原始id:		gh_cee08b7fd643
+appid:		wx28c314eaece3ab2a
+appsecret:    	9816e9846cb7b1680c95bce64bd97baf
+
+
+
+今日闪购帐密：
+阿里云服务器：
+http://47.98.152.131:8888/login
+geming  ee63mjNIcai
+
+微擎登录： 
+m.jinrishangou.com
+kaixin  zzXjm2018
+
+原始ID：		gh_7a6a878c254c
+AppID(小程序ID):	wx442ea24d9bdb8241
+AppSecret(小程序密钥):  ac16f2bec29d9c806ddca567973aef36
+
+服务器地址：https://m.jinrishangou.com/api.php?id=2
+Token：ZsM1TDdt1sD1jUTC55tibIZz5msIt9ZZ
+EncodingAESKey：HdcrZjCK48Oku3m7K7Jp87RKO77kJauqo3rI8d4ZOMo
+
+
+
+微信支付：
+	商户号:		1484084852
+	密钥:		XH9RNUko7blbwIzYFBUpBIktu82ige7A
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
