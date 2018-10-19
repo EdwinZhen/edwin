@@ -1,28 +1,7 @@
 
 
-阿里云服务器：
-http://47.98.152.131:8888/login
-geming  ee63mjNIcai
 
 
-
-微擎登录： 
-m.jinrishangou.com
-kaixin  zzXjm2018
-
-
-原始ID：		gh_7a6a878c254c
-
-AppID(小程序ID):	wx442ea24d9bdb8241
-
-AppSecret(小程序密钥):  ac16f2bec29d9c806ddca567973aef36
-
-
-服务器地址：https://m.jinrishangou.com/api.php?id=2
-
-Token：ZsM1TDdt1sD1jUTC55tibIZz5msIt9ZZ
-
-EncodingAESKey：HdcrZjCK48Oku3m7K7Jp87RKO77kJauqo3rI8d4ZOMo
-
+123
 
                       
